@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ecamen1U1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f51afd7c44526661e418c383c27824ba45844304")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbe6de3a7e8820a31ef05218f4f77270f1a1b5e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ecamen1U1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ecamen1U1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
